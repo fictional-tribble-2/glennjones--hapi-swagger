@@ -6,7 +6,7 @@ in a project.
 [![build status](https://img.shields.io/travis/glennjones/hapi-swagger.svg?style=flat-square)](http://travis-ci.org/glennjones/hapi-swagger)
 [![Coverage Status](https://img.shields.io/coveralls/glennjones/hapi-swagger/dev.svg?style=flat-square)](https://coveralls.io/r/glennjones/hapi-swagger)
 [![npm downloads](https://img.shields.io/npm/dm/hapi-swagger.svg?style=flat-square)](https://www.npmjs.com/package/hapi-swagger)
-[![MIT license](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.github.com/glennjones/microformat-shic/master/license.txt) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/glennjones--hapi-swagger.svg)](https://www.staging.guardrails.io)
+[![MIT license](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.github.com/glennjones/microformat-shic/master/license.txt) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/glennjones--hapi-swagger.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/glennjones--hapi-swagger.svg)](https://www.guardrails.io)
 
 [Release Notes for v9.0.x](https://github.com/glennjones/hapi-swagger/issues/487) which only supports hapi v17 and above.
 Note: For hapi versions below v17, you must use versions [v7.x.x](https://github.com/glennjones/hapi-swagger/tree/v7.x) of this module.
